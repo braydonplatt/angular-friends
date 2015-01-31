@@ -70,7 +70,7 @@ ul{
 }
 .status {
 	margin-top:12px;
-	clear: both;
+	/*clear: both;*/
 }
 .num-friends {
 	color: #3b5998;
