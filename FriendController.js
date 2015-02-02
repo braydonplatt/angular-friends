@@ -1,6 +1,7 @@
 var app = angular.module('todo');
 
 app.controller('FriendController', function($scope){ 
+  
   $scope.friends = [
     {
         "name": "Preston McNeil",
@@ -447,7 +448,7 @@ app.controller('FriendController', function($scope){
         "$$hashKey": "02U"
     }
 ]
-   
+
 
 });
 
